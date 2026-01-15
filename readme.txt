@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Vyom Shah, vyoms2@uci.edu--
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -30,7 +30,6 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
-
 
 
 
