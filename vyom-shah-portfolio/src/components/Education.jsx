@@ -3,6 +3,7 @@ import "./Education.css";
 export default function Education() {
     return (
         <section className="education">
+            <h2 className="section_title">Education</h2>
             <div className="education__container">
                 <div className="education__school">
                     University of California, Irvine
