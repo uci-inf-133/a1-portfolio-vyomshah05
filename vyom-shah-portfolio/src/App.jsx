@@ -2,6 +2,7 @@ import Hero from "./components/Hero";
 import About from "./components/About"
 import Education from "./components/Education";
 import Experience from "./components/Experience";
+import Projects from "./components/Projects";
 import "./styles/global.css";
 
 export default function App() {
@@ -11,6 +12,7 @@ export default function App() {
       <About />
       <Education />
       <Experience />
+      <Projects />
     </>
   )
 }
