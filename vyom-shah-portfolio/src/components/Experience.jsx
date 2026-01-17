@@ -7,7 +7,7 @@ import DB from "../assets/logos/db.jpeg";
 
 export default function Experience() {
     return (
-        <section className="experience">
+        <section id="experience" className="experience">
             <h2 className="section_title">Experience</h2>
             <div className="experience__container">
                 <div className="experience__company">

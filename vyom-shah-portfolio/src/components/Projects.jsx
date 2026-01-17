@@ -25,7 +25,7 @@ const projects = [
         name: "VroomMates",
         blurb: "Carpool route planning webapp",
         image: Vroom,
-        tech: "React, JavaScript, Google Maps API, Python, Flask, A* pathfinding, Google Datastore",
+        tech: "React, JavaScript, Google Maps API, Python, Flask, Google Datastore",
         links: {
             github: "https://github.com/jonnypan2325/VroomMates",
             devpost: "https://devpost.com/software/vroommates"

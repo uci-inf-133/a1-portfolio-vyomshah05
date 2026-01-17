@@ -143,3 +143,27 @@
         gap: 10px;
     }
 }
+
+.topbar__left {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.topbar__nav {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  font-weight: 800;
+}
+
+.topbar__nav a {
+  padding: 8px 10px;
+  border-radius: 10px;
+  transition: transform 150ms ease, background 150ms ease;
+}
+
+.topbar__nav a:hover {
+  transform: scale(1.05);
+  background: rgba(255, 255, 255, 0.12);
+}
